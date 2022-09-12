@@ -1,0 +1,1 @@
+from handlers.group.group import register_group
